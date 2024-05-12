@@ -1,0 +1,11 @@
+What's new in 0.2.0
+===================
+
+Minecraft stable release and preview versions can be downloaded within the swticher now.
+No more requirement to find your own version files!
+
+
+What's new in 0.1.0
+===================
+
+Minecraft Version Switcher + adds the ability to switch preview versions of Minecraft too

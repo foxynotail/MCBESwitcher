@@ -1,0 +1,28 @@
+; Options for MCSwitcher
+
+[Data]
+current_profile=
+current_version=
+current_preview_version=
+
+[Directories]
+profile_dir = _SCRIPTDIR_\Profiles
+version_dir = _SCRIPTDIR_\Versions
+
+mc_package_dir = _LOCALAPPDATA_\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState
+mc_dir = _LOCALAPPDATA_\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang
+
+preview_package_dir = _LOCALAPPDATA_\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState
+preview_dir = _LOCALAPPDATA_\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang
+
+[Misc]
+verbose_logging = false
+powershell_path = C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+
+[User Accounts]
+mc_user = S-1-15-2-1958404141-86561845-1752920682-3514627264-368642714-62675701-733520436
+preview_user = S-1-15-2-424268864-5579737-879501358-346833251-474568803-887069379-4040235476
+
+[Versions]
+versions_file = _SCRIPTDIR_\mc-versions.json
+last_updated = 2023/04/02 08:43:21
